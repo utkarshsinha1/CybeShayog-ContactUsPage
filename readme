@@ -1,0 +1,42 @@
+CyberShayog Contact Us Page:
+
+This project contains the HTML and CSS code for the "Contact Us" page of the CyberShayog website. The page includes a form for users to enter their name, email, contact number, and message. It also features icons for social media links.
+
+Table of Contents
+Features
+Usage
+Project Structure
+Dependencies
+Contributing
+License(Not Really ,Not for now).
+
+Features:
+Responsive design with a gradient background.
+Contact form with input fields for name, email, contact number, and message.
+Social media icons linking to LinkedIn, Instagram, and WhatsApp.
+Usage
+To use this code, simply open the index.html file in a web browser. Ensure the index.css stylesheet is in the same directory as the HTML file.
+
+HTML
+The index.html file contains the structure of the Contact Us page. It includes a form and social media icons.
+
+CSS
+The index.css file contains the styles for the Contact Us page. It handles the layout, colors, and responsiveness of the page.
+
+Project Structure
+
+
+│
+├── index.html     # Main HTML file
+├── index.css      # CSS styles
+└── Main-Logo-Title-Image.png  # Favicon for the page
+
+Dependencies
+Ionicons for social media icons.
+Include the following script tags in the index.html file to use Ionicons:
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+Contributing
+Contributions are welcome! Please fork this repository and submit a pull request with your changes.
+
+
